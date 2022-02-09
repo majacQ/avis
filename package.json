@@ -22,7 +22,7 @@
     "@types/classnames": "^2.2.3",
     "@types/file-saver": "0.0.1",
     "@types/node": "^8.0.28",
-    "@types/qs": "^6.5.0",
+    "@types/qs": "^6.9.7",
     "@types/react": "^16.8.6",
     "@types/react-dom": "^16.8.2",
     "axios": "^0.16.2",
